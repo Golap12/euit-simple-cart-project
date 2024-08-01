@@ -9,17 +9,17 @@ function App() {
     {
       productName: "Cheeseburger",
       price: 8.99,
-      img: "https://i.ibb.co/0G4WWg3/erik-odiin-F-x-Gk7-V0-Xbc-unsplash.jpg",
+      img: "https://i.ibb.co/4pPqNgv/erik-odiin-F-x-Gk7-V0-Xbc-unsplash-1.jpg",
     },
     {
       productName: "Veggie Pizza",
       price: 12.99,
-      img: "https://i.ibb.co/wLKpy5p/laure-noverraz-js-ZKLRi7to-U-unsplash.jpg",
+      img: "https://i.ibb.co/9v7JbvZ/laure-noverraz-js-ZKLRi7to-U-unsplash-1.jpg",
     },
     {
       productName: "Chicken Salad",
       price: 10.49,
-      img: "https://i.ibb.co/5h420nJ/fernando-andrade-0-Yjpw-Epj-Be-A-unsplash.jpg",
+      img: "https://i.ibb.co/hBz7h9B/fernando-andrade-0-Yjpw-Epj-Be-A-unsplash-1.jpg",
     },
   ];
 

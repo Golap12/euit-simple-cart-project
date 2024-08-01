@@ -19,7 +19,7 @@ const Items = ({ item, handleCart }) => {
                 <div className='flex gap-3 items-center'>
                     <h3 className=' font-semibold text-lg'>{productName}</h3>
                     {
-                        count > 0 ? <p className='p-1 bg-green-500 text-xs font-bold rounded-full flex justify-center items-center'>X {count}</p> : <p></p>
+                        count > 0 ? <p className='p-1 bg-green-500 text-xs font-bold rounded-full flex justify-center items-center'>X{count}</p> : <p></p>
                     }
                 </div>
 

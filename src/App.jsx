@@ -9,17 +9,17 @@ function App() {
     {
       productName: "Cheeseburger",
       price: 8.99,
-      img: "https://www.foodandwine.com/thmb/LUEdbNTLcdq_BtCmINp23zQbQro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-cheeseburgers-eat-delicious-XL-BLOG0517-b578f43651854aeb8e2e605580094811.jpg",
+      img: "https://i.ibb.co/0G4WWg3/erik-odiin-F-x-Gk7-V0-Xbc-unsplash.jpg",
     },
     {
       productName: "Veggie Pizza",
       price: 12.99,
-      img: "https://www.orchidsandsweettea.com/wp-content/uploads/2019/05/Veggie-Pizza-2-of-5-e1691215701129.jpg",
+      img: "https://i.ibb.co/wLKpy5p/laure-noverraz-js-ZKLRi7to-U-unsplash.jpg",
     },
     {
       productName: "Chicken Salad",
       price: 10.49,
-      img: "https://ifoodreal.com/wp-content/uploads/2021/06/fg-grilled-chicken-salad.jpg",
+      img: "https://i.ibb.co/5h420nJ/fernando-andrade-0-Yjpw-Epj-Be-A-unsplash.jpg",
     },
   ];
 

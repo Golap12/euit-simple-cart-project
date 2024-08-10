@@ -11,10 +11,11 @@ const Items = ({ item, handleCart }) => {
         handleCart(item);
         setCount(count + 1);
     };
+    console.log(count);
 
     return (
         <div className='group'>
-            <div className='flex flex-col md:space-y-3 space-y-2 border p-5 rounded-xl shadow-[0px_0px_20px_10px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024] transition-transform transform group-hover:scale-105 group-hover:bg-gradient-to-r group-hover:from-green-200 group-hover:to-blue-300 duration-200'>
+            <div className='flex flex-col md:space-y-3 space-y-2 border p-5 rounded-xl shadow-[0px_0px_20px_10px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024,0px_3px_8px_0px_#00000024] transition-transform transform group-hover:scale-105 duration-200'>
                 <img className='w-full h-[150px] rounded-xl' src={img} alt={productName} />
                 <div className='flex gap-3 items-center'>
                     <h3 className='font-semibold text-lg'>{productName}</h3>
